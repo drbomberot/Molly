@@ -1,5 +1,5 @@
-##Molly Discord Bot License
-##Copyright (c) 2024 [theoneandonlycatman's Dicord Bot]
+## Molly Discord Bot License
+## Copyright (c) 2024 [theoneandonlycatman's Dicord Bot]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this Code and associated documentation files (the "Code"), to use the Code, subject to the following conditions:
 
@@ -26,4 +26,4 @@ Termination:
 
 This license is effective until terminated. Your rights under this license will terminate automatically without notice if you fail to comply with any terms of this license. Upon termination, you must immediately cease all use of the Code and destroy all copies, full or partial, of the Software.
 
-##By using the Code, you agree to abide by the terms of this license. 
+## By using the Code, you agree to abide by the terms of this license. 
