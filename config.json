@@ -1,0 +1,7 @@
+{
+    "token": "DISCORD_BOT_TOKEN",
+    "prefix": "!",
+    "ticketCategory": "tickets",
+    "autoroleIds": ["ROLE_ID", "ROLE_ID"], 
+    "logChannelId": "`log_Channel_Id`"
+}
